@@ -1,0 +1,8 @@
+appiumServer=http://127.0.0.1:4723/wd/hub
+deviceName=samsung SM-G970F
+platformVersion=12
+platformName=Android
+appURL=https://github.com/wikimedia/apps-android-wikipedia/releases/download/latest/app-alpha-universal-release.apk
+appPath=src/test/resources/apps/app-alpha-universal-release.apk
+appPackage=org.wikipedia
+appActivity=org.wikipedia.main.MainActivity
